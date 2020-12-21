@@ -28,8 +28,11 @@ RandomForestRegressor
     Distance Covered
   </li>
   </ul>
-  
-  <img src="UI1.jpeg"/>
-   <img src="UI2.jpeg"/>
+  <table>
+  <tr>
+    <td><img src="UI1.jpeg"/></td>
+    <td><img src="UI2.jpeg"/></td>
+    </tr>
+  </table>
 
 
