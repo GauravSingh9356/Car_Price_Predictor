@@ -1,3 +1,8 @@
 body {
-  background-image: url('car.jpg');
+  background: linear-gradient(
+      to right,
+      rgba(214, 187, 187, 0) 20%,
+      rgb(97, 76, 76)
+    ),
+    url('car.jpg');
 }
